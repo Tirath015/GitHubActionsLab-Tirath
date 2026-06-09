@@ -1,4 +1,4 @@
-name: Multi Platform Testing
+name: Multi Platform 
 
 on:
   pull_request:
